@@ -1,0 +1,15 @@
+D:\Working\win-image-crawler-master\obj\Debug\Crawler.csproj.AssemblyReference.cache
+D:\Working\win-image-crawler-master\obj\Debug\Crawler.csproj.SuggestedBindingRedirects.cache
+D:\Working\win-image-crawler-master\obj\Debug\Crawler.csproj.CoreCompileInputs.cache
+D:\Working\win-image-crawler-master\bin\Debug\NLog.config
+D:\Working\win-image-crawler-master\bin\Debug\Crawler.exe.config
+D:\Working\win-image-crawler-master\bin\Debug\Crawler.exe
+D:\Working\win-image-crawler-master\bin\Debug\Crawler.pdb
+D:\Working\win-image-crawler-master\bin\Debug\HtmlAgilityPack.dll
+D:\Working\win-image-crawler-master\bin\Debug\NLog.dll
+D:\Working\win-image-crawler-master\bin\Debug\HtmlAgilityPack.pdb
+D:\Working\win-image-crawler-master\bin\Debug\HtmlAgilityPack.xml
+D:\Working\win-image-crawler-master\bin\Debug\NLog.xml
+D:\Working\win-image-crawler-master\obj\Debug\Crawler.csproj.CopyComplete
+D:\Working\win-image-crawler-master\obj\Debug\Crawler.exe
+D:\Working\win-image-crawler-master\obj\Debug\Crawler.pdb
